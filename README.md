@@ -1,15 +1,17 @@
 # project-euler-clj
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+This is my attempt to solve the [Project Euler](http://projecteuler.net) problems
+using both [clojure](http://clojure.github.com) and sequence programming 
 
-The choice is up to you!
+## Testing
 
-## Usage
+running:
+    lein test
 
-FIXME
+will test all of the solved problems so they can be easily refactored later 
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Bahul Neel Upadhyaya
 
 Distributed under the Eclipse Public License, the same as Clojure.
