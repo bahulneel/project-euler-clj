@@ -17,3 +17,20 @@
 (deftest test-problem4
   (testing "Answer is 906609"
     (is (= 906609 (problem4)))))
+
+(deftest test-problem5
+  (testing "Answer is 232792560"
+    (is (= 232792560 (problem5)))))
+
+(deftest test-problem6
+  (testing "Answer is 25164150"
+    (is (= 25164150 (problem6)))))
+
+(deftest test-problem7
+  (testing "Answer is 104743"
+    (is (= 104743 (problem7)))))
+
+(deftest test-problem8
+  (testing "Answer is 40824"
+    (is (= 40824 (problem8)))))
+
